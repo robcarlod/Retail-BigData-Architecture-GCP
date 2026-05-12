@@ -14,7 +14,7 @@ La solución fue estructurada en las siguientes capas:
 * **Almacenamiento Analítico (Data Warehouse):** `BigQuery` para almacenar datos estructurados y soportar consultas analíticas de alta eficiencia.
 
 ## Arquitectura del Sistema
-![Arquitectura General] [ImagenArquitectura.png]
+![Arquitectura General](ImagenArquitectura.png)
 
 ## Estructura de este Repositorio
 * Diagramas conceptuales de las capas de datos.
