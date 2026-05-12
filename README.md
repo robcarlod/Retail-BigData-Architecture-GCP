@@ -16,4 +16,4 @@ La solución fue estructurada en las siguientes capas lógicas:
 * **Almacenamiento Analítico (Data Warehouse):** Modelado en `BigQuery` para alojar los datos estructurados, permitiendo consultas analíticas de alta eficiencia.
 
 ## Arquitectura del Sistema
-![Arquitectura General](arquitecturaRetail_GCP)
+![Arquitectura General](arquitecturaRetail_GCP.png)
